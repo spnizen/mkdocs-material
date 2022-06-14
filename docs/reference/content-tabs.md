@@ -84,7 +84,7 @@ integrated with [instant loading] and persisted across page loads.
 
     [![content.tabs.link disabled]][content.tabs.link disabled]
 
-  [link support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.3.0
+  [link support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.3.0
   [instant loading]: ../setup/setting-up-navigation.md#instant-loading
   [content.tabs.link enabled]: ../assets/screenshots/content-tabs-link.png
   [content.tabs.link disabled]: ../assets/screenshots/content-tabs.png

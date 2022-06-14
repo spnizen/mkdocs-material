@@ -33,7 +33,7 @@ No configuration options are available. See reference for usage:
 - [Adding a glossary]
 
   [Abbreviations]: https://python-markdown.github.io/extensions/abbreviations/
-  [Abbreviations support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [Abbreviations support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [Adding abbreviations]: ../../reference/tooltips.md#adding-abbreviations
   [Adding a glossary]: ../../reference/tooltips.md#adding-a-glossary
 
@@ -59,7 +59,7 @@ No configuration options are available. See reference for usage:
 - [Supported types]
 
   [Admonition]: https://python-markdown.github.io/extensions/admonition/
-  [Admonition support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [Admonition support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [Adding admonitions]: ../../reference/admonitions.md#usage
   [Changing the title]: ../../reference/admonitions.md#changing-the-title
   [Removing the title]: ../../reference/admonitions.md#removing-the-title
@@ -91,7 +91,7 @@ No configuration options are available. See reference for usage:
 - [Image lazy-loading]
 
   [Attribute Lists]: https://python-markdown.github.io/extensions/attr_list/
-  [Attribute Lists support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [Attribute Lists support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [Attribute Lists limitations]: https://python-markdown.github.io/extensions/attr_list/#limitations
   [Using grids]: ../../reference/grids.md#using-grids
   [Adding buttons]: ../../reference/buttons.md#adding-buttons
@@ -120,7 +120,7 @@ No configuration options are available. See reference for usage:
 - [Using definition lists]
 
   [Definition Lists]: https://python-markdown.github.io/extensions/definition_lists/
-  [Definition Lists support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.1.0
+  [Definition Lists support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.1.0
   [description lists]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl
   [Using definition lists]: ../../reference/lists.md#using-definition-lists
 
@@ -143,7 +143,7 @@ No configuration options are supported. See reference for usage:
 - [Adding footnote content]
 
   [Footnotes]: https://python-markdown.github.io/extensions/footnotes/
-  [Footnotes support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [Footnotes support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [Adding footnote references]: ../../reference/footnotes.md#adding-footnote-references
   [Adding footnote content]: ../../reference/footnotes.md#adding-footnote-content
 
@@ -173,7 +173,7 @@ No configuration options are available. See reference for usage:
 - [Hiding the feedback widget]
 
   [Metadata]: https://python-markdown.github.io/extensions/meta_data/
-  [Metadata support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [Metadata support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [Setting the page title]: ../../reference/index.md#setting-the-page-title
   [Setting the page description]: ../../reference/index.md#setting-the-page-description
   [Setting the page icon]: ../../reference/index.md#setting-the-page-icon
@@ -210,7 +210,7 @@ No configuration options are available. See reference for usage:
 - [Image captions]
 
   [Markdown in HTML]: https://python-markdown.github.io/extensions/md_in_html/
-  [Markdown in HTML support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [Markdown in HTML support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [Using annotations]: ../../reference/annotations.md#usage
   [Using grids]: ../../reference/grids.md#usage
   [Image captions]: ../../reference/images.md#image-captions
@@ -333,8 +333,8 @@ by Material for MkDocs, which is why they may yield unexpected results. Use
 them at your own risk.
 
   [Table of Contents]: https://python-markdown.github.io/extensions/toc/
-  [Table of Contents support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
-  [title support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.3.5
+  [Table of Contents support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
+  [title support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.3.5
   [site language]: ../changing-the-language.md#site-language
   [Slugs]: https://facelessuser.github.io/pymdown-extensions/extras/slugs/
 
@@ -358,7 +358,7 @@ No configuration options are available. See reference for usage:
 - [Column alignment]
 
   [Tables]: https://python-markdown.github.io/extensions/tables/
-  [Tables support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [Tables support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [Using data tables]: ../../reference/data-tables.md#usage
   [Column alignment]: ../../reference/data-tables.md#column-alignment
 
@@ -378,7 +378,7 @@ Superseded by [SuperFences]. This extension might still work, but the
 nesting, and is therefore recommended.
 
   [Fenced Code Blocks]: https://python-markdown.github.io/extensions/fenced_code_blocks/
-  [Fenced Code Blocks support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [Fenced Code Blocks support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [SuperFences]: https://facelessuser.github.io/pymdown-extensions/extensions/superfences/
 
 ### CodeHilite
@@ -391,6 +391,6 @@ Superseded by [Highlight]. Support for CodeHilite was dropped in
 essential extensions like [SuperFences] and [InlineHilite].
 
   [CodeHilite]: https://python-markdown.github.io/extensions/code_hilite/
-  [CodeHilite support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [CodeHilite support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [Highlight]: https://facelessuser.github.io/pymdown-extensions/extensions/highlight/
   [InlineHilite]: https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/

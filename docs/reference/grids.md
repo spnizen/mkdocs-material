@@ -179,7 +179,7 @@ when [hiding both sidebars].
   [reference]: ../reference/index.md
   [customization]: ../customization.md
   [license]: ../license.md
-  [GitHub]: https://github.com/squidfunk/mkdocs-material
+  [GitHub]: https://github.kyndryl.net/sre-axa/steady-state-tasks
   [hiding both sidebars]: ../setup/setting-up-navigation.md#hiding-the-sidebars
 
 #### Block syntax

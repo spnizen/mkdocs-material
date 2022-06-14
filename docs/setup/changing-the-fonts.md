@@ -31,7 +31,7 @@ theme:
 The typeface will be loaded in 300, 400, _400i_ and __700__.
 
   [Roboto]: https://fonts.google.com/specimen/Roboto
-  [font support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.2
+  [font support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.2
 
 ### Monospaced font
 
@@ -73,7 +73,7 @@ theme:
     by automatically downloading and self-hosting the web font files.
 
   [data privacy]: https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users
-  [font=false support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [font=false support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [built-in privacy plugin]: ensuring-data-privacy.md#built-in-privacy-plugin
 
 ## Customization

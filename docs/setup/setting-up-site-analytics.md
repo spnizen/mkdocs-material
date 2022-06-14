@@ -42,7 +42,7 @@ following lines to `mkdocs.yml`:
         property: UA-XXXXXXXX-X
     ```
 
-  [Google Analytics support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.1.8
+  [Google Analytics support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.1.8
 
 ??? question "How to measure site search usage?"
 
@@ -226,7 +226,7 @@ The following properties are available for each rating:
   [analytics]: #google-analytics
   [feedback report]: ../assets/screenshots/feedback-report.png
   [custom feedback integration]: #custom-site-feedback
-  [custom icons]: https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+  [custom icons]: https://github.kyndryl.net/sre-axa/steady-state-tasks/tree/master/material/.icons
   [Google Forms]: https://www.google.com/forms/about/
 
 ## Usage

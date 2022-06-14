@@ -55,7 +55,7 @@ Check out the versioning example to see it in action –
     to particularly notable versions. This makes it easy to make permalinks to
     whatever version of the documentation you want to direct people to.
 
-  [version support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.0.0
+  [version support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.0.0
   [Version selector preview]: ../assets/screenshots/versioning.png
   [version example]: https://squidfunk.github.io/mkdocs-material-example-versioning/
   [Why use mike?]: https://github.com/jimporter/mike#why-use-mike
@@ -102,7 +102,7 @@ extra:
 
 Make sure that this matches the [default version].
 
-  [Version warning support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.0.0
+  [Version warning support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.0.0
   [theme extension]: ../customization.md#extending-the-theme
   [overriding blocks]: ../customization.md#overriding-blocks
   [Version warning preview]: ../assets/screenshots/version-warning.png

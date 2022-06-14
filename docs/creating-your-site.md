@@ -89,7 +89,7 @@ slightly different:
     loaded automatically as described in the [custom theme guide].
 
   [installation methods]: getting-started.md#installation
-  [mkdocs_theme.yml]: https://github.com/squidfunk/mkdocs-material/blob/master/src/mkdocs_theme.yml
+  [mkdocs_theme.yml]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/src/mkdocs_theme.yml
   [custom theme guide]: https://www.mkdocs.org/user-guide/custom-themes/#creating-a-custom-theme
 
 ???+ tip "Recommended: [configuration validation and auto-complete]"
@@ -132,8 +132,8 @@ slightly different:
   [schema.json]: schema.json
   [vscode-yaml]: https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
   [settings.json]: https://code.visualstudio.com/docs/getstarted/settings
-  [extension]: https://github.com/squidfunk/mkdocs-material/tree/master/docs/schema/extensions
-  [plugin]: https://github.com/squidfunk/mkdocs-material/tree/master/docs/schema/plugins
+  [extension]: https://github.kyndryl.net/sre-axa/steady-state-tasks/tree/master/docs/schema/extensions
+  [plugin]: https://github.kyndryl.net/sre-axa/steady-state-tasks/tree/master/docs/schema/plugins
   [$ref]: https://json-schema.org/understanding-json-schema/structuring.html#ref
 
 ### Advanced configuration

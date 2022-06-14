@@ -103,7 +103,7 @@ theme:
               quote: fontawesome/solid/quote-left
         ```
 
-  [icon support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.3.0
+  [icon support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.3.0
   [custom icon]: ../setup/changing-the-logo-and-icons.md#additional-icons
   [supported types]: #supported-types
   [icon search]: icons-emojis.md#search
@@ -283,7 +283,7 @@ prior to the content block you want to place them beside. If there's
 insufficient space to render the admonition next to the block, the admonition
 will stretch to the full width of the viewport, e.g. on mobile viewports.
 
-  [Inline support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.0.0
+  [Inline support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.0.0
 
 ### Supported types
 
@@ -463,5 +463,5 @@ After applying the customization, you can use the custom admonition type:
 
 </div>
 
-  [custom icons]: https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+  [custom icons]: https://github.kyndryl.net/sre-axa/steady-state-tasks/tree/master/material/.icons
   [additional style sheet]: ../customization.md#additional-css

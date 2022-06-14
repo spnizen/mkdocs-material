@@ -21,7 +21,7 @@ documentation, set [`repo_url`][repo_url] in `mkdocs.yml` to the public URL of
 your repository, e.g.:
 
 ``` yaml
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.kyndryl.net/sre-axa/steady-state-tasks
 ```
 
 The link to the repository will be rendered next to the search bar on big
@@ -37,7 +37,7 @@ GitHub repositories also include the tag of the latest release.[^1]
     pre-release) for the latest tag you want to show up next to the number of
     stars and forks.
 
-  [repo_url support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [repo_url support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [repo_url]: https://www.mkdocs.org/user-guide/configuration/#repo_url
   [latest release]: https://docs.github.com/en/rest/reference/releases#get-the-latest-release
   [create a release]: https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#creating-a-release
@@ -56,7 +56,7 @@ _repository name_ automatically. If you wish to customize the name, set
 repo_name: squidfunk/mkdocs-material
 ```
 
-  [repo_name support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [repo_name support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [repo_name]: https://www.mkdocs.org/user-guide/configuration/#repo_name
 
 ### Repository icon
@@ -99,8 +99,8 @@ Some popular choices:
 - :fontawesome-brands-bitbucket: – `fontawesome/brands/bitbucket`
 - :fontawesome-solid-trash: – `fontawesome/solid/trash`
 
-  [icon.repo support]: https://github.com/squidfunk/mkdocs-material/releases/tag/5.0.0
-  [icon.repo default]: https://github.com/squidfunk/mkdocs-material/blob/master/material/.icons/fontawesome/brands/git-alt.svg
+  [icon.repo support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/5.0.0
+  [icon.repo default]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/material/.icons/fontawesome/brands/git-alt.svg
   [icon search]: ../reference/icons-emojis.md#search
 
 ### Edit button
@@ -124,7 +124,7 @@ changed by setting [`edit_uri`][edit_uri] in `mkdocs.yml`:
     edit_uri: ""
     ```
 
-  [edit_uri support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [edit_uri support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [edit_uri]: https://www.mkdocs.org/user-guide/configuration/#edit_uri
   [GitHub]: https://github.com/
   [GitLab]: https://about.gitlab.com/
@@ -168,7 +168,7 @@ The other configuration options of this extension are not officially supported
 by Material for MkDocs, which is why they may yield unexpected results. Use
 them at your own risk.
 
-  [git-revision-date support]: https://github.com/squidfunk/mkdocs-material/releases/tag/4.6.0
+  [git-revision-date support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/4.6.0
   [git-revision-date]: https://github.com/zhaoterryy/mkdocs-git-revision-date-plugin
 
 ### Revision date, localized
@@ -235,6 +235,6 @@ The other configuration options of this extension are not officially supported
 by Material for MkDocs, which is why they may yield unexpected results. Use
 them at your own risk.
 
-  [git-revision-date-localized support]: https://github.com/squidfunk/mkdocs-material/releases/tag/4.6.0
+  [git-revision-date-localized support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/4.6.0
   [git-revision-date-localized]: https://github.com/timvink/mkdocs-git-revision-date-localized-plugin
-  [enable_creation_date support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.1.4
+  [enable_creation_date support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.1.4

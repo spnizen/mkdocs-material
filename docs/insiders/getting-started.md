@@ -120,13 +120,13 @@ pip install -e mkdocs-material
 ```
 
   [GitHub Container Registry]: https://docs.github.com/en/packages/guides/about-github-container-registry
-  [Fork the Insiders repository]: https://github.com/squidfunk/mkdocs-material-insiders/fork
+  [Fork the Insiders repository]: https://github.kyndryl.net/sre-axa/steady-state-tasks-insiders/fork
   [GitHub Actions]: https://docs.github.com/en/github/administering-a-repository/disabling-or-limiting-github-actions-for-a-repository
   [packages scope]: https://docs.github.com/en/developers/apps/scopes-for-oauth-apps#available-scopes
   [GitHub Actions secret]: https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository
   [Create a new release]: https://docs.github.com/en/github/administering-a-repository/managing-releases-in-a-repository#creating-a-release
   [Pull App]: https://github.com/apps/pull
-  [publish]: https://github.com/squidfunk/mkdocs-material-insiders/blob/master/.github/workflows/publish.yml
+  [publish]: https://github.kyndryl.net/sre-axa/steady-state-tasks-insiders/blob/master/.github/workflows/publish.yml
 
 ## Upgrading
 

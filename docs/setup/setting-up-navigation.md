@@ -36,7 +36,7 @@ are rebound automatically, i.e., __Material for MkDocs now behaves like a Single
 Page Application__. Now, the search index survives navigation, which is
 especially useful for large documentation sites.
 
-  [navigation.instant support]: https://github.com/squidfunk/mkdocs-material/releases/tag/5.2.0
+  [navigation.instant support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/5.2.0
   [XHR]: https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
 
 ### Anchor tracking
@@ -55,7 +55,7 @@ theme:
     - navigation.tracking
 ```
 
-  [Anchor tracking support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.0.0
+  [Anchor tracking support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.0.0
 
 ### Navigation tabs
 
@@ -89,7 +89,7 @@ theme:
 
     [![navigation.tabs disabled]][navigation.tabs disabled]
 
-  [navigation.tabs support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.1.0
+  [navigation.tabs support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.1.0
   [navigation.tabs enabled]: ../assets/screenshots/navigation-tabs.png
   [navigation.tabs disabled]: ../assets/screenshots/navigation.png
 
@@ -117,7 +117,7 @@ theme:
 
     [![navigation.tabs.sticky disabled]][navigation.tabs.sticky disabled]
 
-  [navigation.tabs.sticky support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.3.0
+  [navigation.tabs.sticky support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.3.0
   [navigation.tabs.sticky enabled]: ../assets/screenshots/navigation-tabs-sticky.png
   [navigation.tabs.sticky disabled]: ../assets/screenshots/navigation-tabs-collapsed.png
 
@@ -144,7 +144,7 @@ theme:
 
     [![navigation.sections disabled]][navigation.sections disabled]
 
-  [navigation.sections support]: https://github.com/squidfunk/mkdocs-material/releases/tag/6.2.0
+  [navigation.sections support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/6.2.0
   [navigation.sections enabled]: ../assets/screenshots/navigation-sections.png
   [navigation.sections disabled]: ../assets/screenshots/navigation.png
 
@@ -176,7 +176,7 @@ theme:
 
     [![navigation.expand disabled]][navigation.expand disabled]
 
-  [navigation.expand support]: https://github.com/squidfunk/mkdocs-material/releases/tag/6.2.0
+  [navigation.expand support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/6.2.0
   [navigation.expand enabled]: ../assets/screenshots/navigation-expand.png
   [navigation.expand disabled]: ../assets/screenshots/navigation.png
 
@@ -246,7 +246,7 @@ nav:
     - Page n: section/page-n.md
 ```
 
-  [navigation.indexes support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.3.0
+  [navigation.indexes support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.3.0
   [navigation.indexes enabled]: ../assets/screenshots/navigation-index-on.png
   [navigation.indexes disabled]: ../assets/screenshots/navigation-index-off.png
   [toc.integrate]: #navigation-integration
@@ -299,7 +299,7 @@ theme:
     [![toc.integrate disabled]][toc.integrate disabled]
 
   [table of contents]: extensions/python-markdown.md#table-of-contents
-  [toc.integrate support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.3.0
+  [toc.integrate support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.3.0
   [toc.integrate enabled]: ../assets/screenshots/toc-integrate.png
   [toc.integrate disabled]: ../assets/screenshots/navigation-tabs.png
   [navigation.indexes]: #section-index-pages
@@ -319,7 +319,7 @@ theme:
     - navigation.top
 ```
 
-  [navigation.top support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.1.0
+  [navigation.top support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.1.0
 
 ## Usage
 

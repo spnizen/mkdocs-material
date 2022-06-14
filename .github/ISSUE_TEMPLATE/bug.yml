@@ -6,7 +6,7 @@ body:
       label: Contribution guidelines
       description: Please read the contribution guidelines before proceeding.
       options:
-        - label: I've read the [contribution guidelines](https://github.com/squidfunk/mkdocs-material/blob/master/CONTRIBUTING.md) and wholeheartedly agree
+        - label: I've read the [contribution guidelines](https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/CONTRIBUTING.md) and wholeheartedly agree
           required: true
   - type: checkboxes
     attributes:

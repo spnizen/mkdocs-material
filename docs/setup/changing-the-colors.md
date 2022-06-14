@@ -50,7 +50,7 @@ Click on a tile to change the color scheme:
   })
 </script>
 
-  [palette.scheme support]: https://github.com/squidfunk/mkdocs-material/releases/tag/5.2.0
+  [palette.scheme support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/5.2.0
 
 #### Primary color
 
@@ -105,7 +105,7 @@ Click on a tile to change the primary color:
   })
 </script>
 
-  [palette.primary support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.2.0
+  [palette.primary support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.2.0
 
 #### Accent color
 
@@ -162,7 +162,7 @@ Click on a tile to change the accent color:
   })
 </script>
 
-  [palette.accent support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.2.0
+  [palette.accent support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.2.0
 
 ### Color palette toggle
 
@@ -233,7 +233,7 @@ The following properties must be set for each toggle:
     This property is used as the toggle's `title` attribute and should be set to
     a discernable name to improve accessibility. It's rendered as a [tooltip].
 
-  [palette.toggle support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.1.0
+  [palette.toggle support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.1.0
   [palette.scheme]: #color-scheme
   [palette.primary]: #primary-color
   [palette.accent]: #accent-color
@@ -272,7 +272,7 @@ When the user first visits your site, the media queries are evaluated in the
 order of their definition. The first media query that matches selects the
 default color palette.
 
-  [palette.media support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.1.0
+  [palette.media support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.1.0
 
 #### Automatic light / dark mode :material-alert-decagram:{ .mdx-pulse title="Added on June 11, 2022" }
 
@@ -349,7 +349,7 @@ add:
 See the file containing the [color definitions] for a list of all CSS variables.
 
   [CSS variables]: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
-  [color definitions]: https://github.com/squidfunk/mkdocs-material/blob/master/src/assets/stylesheets/main/_colors.scss
+  [color definitions]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/src/assets/stylesheets/main/_colors.scss
   [additional style sheet]: ../customization.md#additional-css
 
 

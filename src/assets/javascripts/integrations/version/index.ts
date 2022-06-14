@@ -117,7 +117,7 @@ export function setupVersionSelector(
                 // interfere with instant loading. We need to refactor this
                 // at some point together with instant loading.
                 //
-                // See https://github.com/squidfunk/mkdocs-material/issues/4012
+                // See https://github.kyndryl.net/sre-axa/steady-state-tasks/issues/4012
                 if (!ev.target.closest(".md-version")) {
                   const version = urls.get(url)!
                   if (version === current)

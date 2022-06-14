@@ -19,7 +19,7 @@ to the [issue tracker] in our GitHub repository. Even better, you can submit
 a Pull Request with a fix. However, before doing so, please read the
 [submission guidelines].
 
-  [issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
+  [issue tracker]: https://github.kyndryl.net/sre-axa/steady-state-tasks/issues
   [submission guidelines]: #submission-guidelines
 
 ### Missing a feature?

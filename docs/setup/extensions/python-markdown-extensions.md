@@ -77,7 +77,7 @@ See reference for usage:
 - [Using inline block syntax]
 
   [Arithmatex]: https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/
-  [Arithmatex support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [Arithmatex support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [Arithmatex documentation on KaTeX]: https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/#loading-katex
   [MathJax]: https://www.mathjax.org/
   [KaTeX]: https://github.com/Khan/KaTeX
@@ -104,7 +104,7 @@ MkDocs, as they only impact the Markdown parsing stage. See the [BetterEm
 documentation][BetterEm] for more information.
 
   [BetterEm]: https://facelessuser.github.io/pymdown-extensions/extensions/betterem/
-  [BetterEm support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [BetterEm support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
 
 ### Caret, Mark & Tilde
 
@@ -132,7 +132,7 @@ See reference for usage:
 - [Sub- and superscripts]
 
   [Caret]: https://facelessuser.github.io/pymdown-extensions/extensions/caret/
-  [Caret support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [Caret support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [Mark]: https://facelessuser.github.io/pymdown-extensions/extensions/mark/
   [Tilde]: https://facelessuser.github.io/pymdown-extensions/extensions/tilde/
   [Highlighting text]: ../../reference/formatting.md#highlighting-text
@@ -189,7 +189,7 @@ See reference for usage:
 - [Highlighting changes]
 
   [Critic]: https://facelessuser.github.io/pymdown-extensions/extensions/critic/
-  [Critic support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [Critic support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [Critic Markup]: https://github.com/CriticMarkup/CriticMarkup-toolkit
   [Highlighting changes]: ../../reference/formatting.md#highlighting-changes
 
@@ -212,7 +212,7 @@ No configuration options are available. See reference for usage:
 - [Collapsible blocks]
 
   [Details]: https://facelessuser.github.io/pymdown-extensions/extensions/details/
-  [Details support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.9.0
+  [Details support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.9.0
   [Admonition]: python-markdown.md#admonition
   [Collapsible blocks]: ../../reference/admonitions.md#collapsible-blocks
 
@@ -288,7 +288,7 @@ See reference for usage:
 - [Using icons in templates]
 
   [Emoji]: https://facelessuser.github.io/pymdown-extensions/extensions/emoji/
-  [Emoji support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [Emoji support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [Emoji index]: https://facelessuser.github.io/pymdown-extensions/extensions/emoji/#default-emoji-indexes
   [icon customization guide]: ../changing-the-logo-and-icons.md#additional-icons
   [Using emojis]: ../../reference/icons-emojis.md#using-emojis
@@ -441,7 +441,7 @@ See reference for usage:
 - [Custom syntax theme]
 
   [Highlight]: https://facelessuser.github.io/pymdown-extensions/extensions/highlight/
-  [Highlight support]: https://github.com/squidfunk/mkdocs-material/releases/tag/5.0.0
+  [Highlight support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/5.0.0
   [CodeHilite]: python-markdown.md#codehilite
   [pymdownx.superfences]: #superfences
   [pymdownx.inlinehilite]: #inlinehilite
@@ -449,7 +449,7 @@ See reference for usage:
   [additional style sheet]: ../../customization.md#additional-css
   [Highlight.js]: https://highlightjs.org/
   [title]: ../../reference/code-blocks.md#adding-a-title
-  [anchor_linenums support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.1.0
+  [anchor_linenums support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.1.0
   [Adding line numbers]: ../../reference/code-blocks.md#adding-line-numbers
   [Using code blocks]: ../../reference/code-blocks.md#usage
   [Adding a title]: ../../reference/code-blocks.md#adding-a-title
@@ -481,7 +481,7 @@ See reference for usage:
 - [Highlighting inline code blocks]
 
   [InlineHilite]: https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/
-  [InlineHilite support]: https://github.com/squidfunk/mkdocs-material/releases/tag/5.0.0
+  [InlineHilite support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/5.0.0
   [InlineHilite options]: https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/#options
   [pymdownx.highlight]: #highlight
   [Highlighting inline code blocks]: ../../reference/code-blocks.md#highlighting-inline-code-blocks
@@ -509,7 +509,7 @@ See reference for usage:
 - [Adding keyboard keys]
 
   [Keys]: https://facelessuser.github.io/pymdown-extensions/extensions/keys/
-  [Keys support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [Keys support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [Keys options]: https://facelessuser.github.io/pymdown-extensions/extensions/keys/#options
   [Adding keyboard keys]: ../../reference/formatting.md#adding-keyboard-keys
 
@@ -532,7 +532,7 @@ MkDocs, as they only impact the Markdown parsing stage. See the [SmartSymbols
 documentation][SmartSymbols] for guidance.
 
   [SmartSymbols]: https://facelessuser.github.io/pymdown-extensions/extensions/smartsymbols/
-  [SmartSymbols support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [SmartSymbols support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
 
 ### Snippets
 
@@ -558,7 +558,7 @@ See reference for usage:
 - [Embedding external files]
 
   [Snippets]: https://facelessuser.github.io/pymdown-extensions/extensions/snippets/
-  [Snippets support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [Snippets support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [Adding a glossary]: ../../reference/tooltips.md#adding-a-glossary
   [Embedding external files]: ../../reference/code-blocks.md#embedding-external-files
 
@@ -614,7 +614,7 @@ See reference for usage:
 - [Using entity-relationship diagrams]
 
   [SuperFences]: https://facelessuser.github.io/pymdown-extensions/extensions/superfences/
-  [SuperFences support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [SuperFences support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [Fenced Code Blocks]: python-markdown.md#fenced-code-blocks
   [Mermaid.js]: https://mermaid-js.github.io/mermaid/
   [diagrams]: ../../reference/diagrams.md
@@ -667,8 +667,8 @@ See reference for usage:
 - [Embedded content]
 
   [Tabbed]: https://facelessuser.github.io/pymdown-extensions/extensions/tabbed/
-  [Tabbed support]: https://github.com/squidfunk/mkdocs-material/releases/tag/5.0.0
-  [Tabbed alternate support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.3.1
+  [Tabbed support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/5.0.0
+  [Tabbed alternate support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.3.1
   [alternate style]: https://facelessuser.github.io/pymdown-extensions/extensions/tabbed/#alternate-style
   [better behavior on mobile viewports]: https://twitter.com/squidfunk/status/1424740370596958214
   [Grouping code blocks]: ../../reference/content-tabs.md#grouping-code-blocks
@@ -725,7 +725,7 @@ See reference for usage:
 - [Using task lists]
 
   [Tasklist]: https://facelessuser.github.io/pymdown-extensions/extensions/tasklist/
-  [Tasklist support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
+  [Tasklist support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
   [GitHub Flavored Markdown]: https://github.github.com/gfm/
   [Tasklist specification]: https://github.github.com/gfm/#task-list-items-extension-
   [Using task lists]: ../../reference/lists.md#using-task-lists

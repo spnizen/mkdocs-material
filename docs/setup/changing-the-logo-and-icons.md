@@ -48,8 +48,8 @@ Add the following lines to `mkdocs.yml`:
           </div>
         </div>
 
-  [logo support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
-  [logo default]: https://github.com/squidfunk/mkdocs-material/blob/master/material/.icons/material/library.svg
+  [logo support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
+  [logo default]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/material/.icons/material/library.svg
   [icon search]: ../reference/icons-emojis.md#search
 
 Normally, the logo in the header and sidebar links to the homepage of the
@@ -74,8 +74,8 @@ theme:
   favicon: images/favicon.png
 ```
 
-  [favicon support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
-  [favicon default]: https://github.com/squidfunk/mkdocs-material/blob/master/material/assets/images/favicon.png
+  [favicon support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
+  [favicon default]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/material/assets/images/favicon.png
 
 ## Customization
 

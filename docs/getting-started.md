@@ -148,7 +148,7 @@ repository into a subfolder of your project root which might be useful if you
 want to use the very latest version:
 
 ```
-git clone https://github.com/squidfunk/mkdocs-material.git
+git clone https://github.kyndryl.net/sre-axa/steady-state-tasks.git
 ```
 
 The theme will reside in the folder `mkdocs-material/material`. When cloning
@@ -158,4 +158,4 @@ from `git`, you must install all required dependencies yourself:
 pip install -e mkdocs-material
 ```
 
-  [GitHub]: https://github.com/squidfunk/mkdocs-material
+  [GitHub]: https://github.kyndryl.net/sre-axa/steady-state-tasks

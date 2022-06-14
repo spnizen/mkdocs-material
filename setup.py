@@ -42,7 +42,7 @@ setup(
     version = package["version"],
     url = package["homepage"],
     project_urls = {
-        "Source": "https://github.com/squidfunk/mkdocs-material",
+        "Source": "https://github.kyndryl.net/sre-axa/steady-state-tasks",
     },
     license = package["license"],
     description = package["description"],

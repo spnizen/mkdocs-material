@@ -216,7 +216,7 @@ In order to start development on Material for MkDocs, a [Node.js] version of
 at least 14 is required. First, clone the repository:
 
 ```
-git clone https://github.com/squidfunk/mkdocs-material
+git clone https://github.kyndryl.net/sre-axa/steady-state-tasks
 ```
 
 Next, all dependencies need to be installed, which is done with:

@@ -21,5 +21,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Question
-    url: https://github.com/squidfunk/mkdocs-material/discussions
+    url: https://github.kyndryl.net/sre-axa/steady-state-tasks/discussions
     about: Please ask your question here

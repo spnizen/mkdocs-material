@@ -99,9 +99,9 @@ The following properties are available for each link:
           name: squidfunk on Twitter
     ```
 
-  [social support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.0.0
-  [social.icon support]: https://github.com/squidfunk/mkdocs-material/releases/tag/5.0.0
-  [social.name support]: https://github.com/squidfunk/mkdocs-material/releases/tag/5.1.5
+  [social support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.0.0
+  [social.icon support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/5.0.0
+  [social.name support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/5.1.5
 
 ### Copyright notice
 
@@ -115,8 +115,8 @@ displayed next to the social links. It can be defined as part of `mkdocs.yml`:
 copyright: Copyright &copy; 2016 - 2020 Martin Donath
 ```
 
-  [Copyright notice support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
-  [3]: https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/footer.html
+  [Copyright notice support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
+  [3]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/src/partials/footer.html
 
 ### Generator notice
 
@@ -145,7 +145,7 @@ extra:
     Thus, if you remove this notice, please consider [sponsoring][Insiders] the
     project. __Thank you__ :octicons-heart-fill-24:{ .mdx-heart .mdx-insiders }
 
-  [Generator notice support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.3.0
+  [Generator notice support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.3.0
   [Insiders]: ../insiders/index.md
 
 ## Usage
@@ -179,7 +179,7 @@ In order to customize and override the [copyright notice], [extend the theme]
 and [override the `copyright` partial][overriding partials], which normally
 includes the `copyright` property set in `mkdocs.yml`.
 
-  [Custom copyright support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.0.0
+  [Custom copyright support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.0.0
   [copyright notice]: #copyright-notice
   [generator notice]: #generator-notice
   [extend the theme]: ../customization.md#extending-the-theme

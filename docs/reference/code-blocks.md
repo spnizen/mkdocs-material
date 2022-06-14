@@ -78,7 +78,7 @@ theme:
     Note that the language shortcode which has to come first must now also be 
     prefixed by a `.`.
 
-  [Code annotations support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.0.0
+  [Code annotations support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.0.0
   [Attribute Lists]: ../setup/extensions/python-markdown.md#attribute-lists
 
 #### Anchor links
@@ -154,7 +154,7 @@ def bubble_sort(items):
 
 </div>
 
-  [Title support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.3.6
+  [Title support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.3.6
 
 ### Adding annotations
 
@@ -388,11 +388,11 @@ override it as part of your [additional style sheet]:
       - stylesheets/extra.css
     ```
 
-  [colors]: https://github.com/squidfunk/mkdocs-material/blob/master/src/assets/stylesheets/main/_colors.scss
+  [colors]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/src/assets/stylesheets/main/_colors.scss
   [color schemes]: ../setup/changing-the-colors.md#color-scheme
   [types of string tokens]: https://pygments.org/docs/tokens/#literals
   [additional style sheet]: ../customization.md#additional-css
-  [syntax theme definition]: https://github.com/squidfunk/mkdocs-material/blob/master/src/assets/stylesheets/main/extensions/pymdownx/_highlight.scss
+  [syntax theme definition]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/src/assets/stylesheets/main/extensions/pymdownx/_highlight.scss
 
 ### Annotation tooltip width
 
@@ -457,4 +457,4 @@ you can add an [additional style sheet] and copy and paste the following CSS:
       - stylesheets/extra.css
     ```
 
-  [code annotation markers]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.1.0
+  [code annotation markers]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.1.0

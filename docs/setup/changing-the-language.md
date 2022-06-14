@@ -96,11 +96,11 @@ The following languages are supported:
 Note that some languages will produce unreadable anchor links due to the way
 the default slug function works. Consider using a [Unicode-aware slug function].
 
-  [language support]: https://github.com/squidfunk/mkdocs-material/releases/tag/1.12.0
+  [language support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/1.12.0
   [single language per document]: https://www.w3.org/International/questions/qa-html-language-declarations.en#attributes
   [language selector]: #site-language-selector
   [Unicode-aware slug function]: extensions/python-markdown.md#toc-slugify
-  [Add language]: https://github.com/squidfunk/mkdocs-material/issues/new?template=translate.yml&title=New+language%3A+%7Breplace+with+language+name%7D
+  [Add language]: https://github.kyndryl.net/sre-axa/steady-state-tasks/issues/new?template=translate.yml&title=New+language%3A+%7Breplace+with+language+name%7D
 
 ### Site language selector
 
@@ -150,7 +150,7 @@ The following properties are available for each alternate language:
 
 [![Language selector preview]][Language selector preview]
 
-  [alternate support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.0.0
+  [alternate support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.0.0
   [site_url]: https://www.mkdocs.org/user-guide/configuration/#site_url
   [ISO 639-1 language code]: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
   [Language selector preview]: ../assets/screenshots/language-selection.png
@@ -188,7 +188,7 @@ Click on a tile to change the directionality:
   })
 </script>
 
-  [direction support]: https://github.com/squidfunk/mkdocs-material/releases/tag/2.5.0
+  [direction support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/2.5.0
 
 ## Customization
 
@@ -232,5 +232,5 @@ adjust the ones you want to override:
     ```
 
   [theme extension]: ../customization.md#extending-the-theme
-  [translations]: https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/languages/
-  [list of available languages]: https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/languages/
+  [translations]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/src/partials/languages/
+  [list of available languages]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/src/partials/languages/

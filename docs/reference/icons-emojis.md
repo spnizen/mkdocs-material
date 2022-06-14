@@ -101,7 +101,7 @@ a valid path to any icon bundled with the theme, which are located in the
 
 </div>
 
-  [custom icons]: https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+  [custom icons]: https://github.kyndryl.net/sre-axa/steady-state-tasks/tree/master/material/.icons
 
 #### with colors
 

@@ -89,4 +89,4 @@ improved, please [open an issue].
   [zero-width whitespace]: https://en.wikipedia.org/wiki/Zero-width_space
   [separator]: ../../setup/setting-up-site-search.md#separator
   [q=支持]: ?q=支持
-  [open an issue]: https://github.com/squidfunk/mkdocs-material/issues/new/choose
+  [open an issue]: https://github.kyndryl.net/sre-axa/steady-state-tasks/issues/new/choose

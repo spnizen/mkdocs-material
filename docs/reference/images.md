@@ -148,7 +148,7 @@ hash fragment to the image URL:
 </div>
 
 
-  [Light and dark mode support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.1.1
+  [Light and dark mode support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.1.1
   [color palette toggle]: ../setup/changing-the-colors.md#color-palette-toggle
   [Zelda light world]: ../assets/images/zelda-light-world.png#only-light
   [Zelda dark world]: ../assets/images/zelda-dark-world.png#only-dark

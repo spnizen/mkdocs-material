@@ -19,19 +19,19 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: Built by SPN
+site_url: https://pages.github.kyndryl.net/sre-axa/steady-state-tasks/
+
+site_author: SRE Squad
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
+  AXA SRE Sqaud keeps the infrastructure up and running with a 99.9% commitment to the agreed SLA(s)
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: Raise an issue
+repo_url: https://github.kyndryl.net/sre-axa/steady-state-tasks/issues
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2022 Martin Donath
+copyright: Copyright &copy; 2016 - 2022 SPN
 
 # Configuration
 theme:
@@ -69,7 +69,7 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: indigo
+      primary: red
       accent: indigo
       toggle:
         icon: material/brightness-7

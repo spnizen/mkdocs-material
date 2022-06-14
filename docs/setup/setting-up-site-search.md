@@ -135,13 +135,13 @@ The following configuration options are supported:
 
 </div>
 
-  [search support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
+  [search support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/0.1.0
   [lunr]: https://lunrjs.com
   [lunr-languages]: https://github.com/MihaiValentin/lunr-languages
   [lunr's default tokenizer]: https://github.com/olivernn/lunr.js/blob/aa5a878f62a6bba1e8e5b95714899e17e8150b38/lunr.js#L413-L456
   [site language]: changing-the-language.md#site-language
   [tokenizer lookahead]: #tokenizer-lookahead
-  [prebuilt index support]: https://github.com/squidfunk/mkdocs-material/releases/tag/5.0.0
+  [prebuilt index support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/5.0.0
   [prebuilt index]: https://www.mkdocs.org/user-guide/configuration/#prebuild_index
   [50% smaller]: ../blog/2021/search-better-faster-smaller.md#benchmarks
 
@@ -313,7 +313,7 @@ theme:
 Searching for [:octicons-search-24: search su][search.suggest example] yields 
 ^^search suggestions^^ as a suggestion.
 
-  [search.suggest support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.2.0
+  [search.suggest support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.2.0
   [search.suggest example]: ?q=search+su
 
 ### Search highlighting
@@ -335,7 +335,7 @@ theme:
 Searching for [:octicons-search-24: code blocks][search.highlight example]
 highlights all occurrences of both terms.
 
-  [search.highlight support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.2.0
+  [search.highlight support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.2.0
   [search.highlight example]: ../reference/code-blocks.md?h=code+blocks
 
 ### Search sharing
@@ -357,7 +357,7 @@ theme:
 When a user clicks the share button, the URL is automatically copied to the
 clipboard.
 
-  [search.share support]: https://github.com/squidfunk/mkdocs-material/releases/tag/7.2.0
+  [search.share support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/7.2.0
 
 ## Usage
 
@@ -383,7 +383,7 @@ search:
 1.  :woman_in_lotus_position: When boosting pages, be gentle and start with
     __low values__.
 
-  [boost support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.3.0
+  [boost support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.3.0
   [Metadata]: extensions/python-markdown.md#metadata
 
 ### Search exclusion
@@ -586,5 +586,5 @@ The sequence and direction of messages is rather intuitive:
 - :octicons-arrow-left-24: `SearchResultMessage`
 
   [web worker]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
-  [SearchMessage]: https://github.com/squidfunk/mkdocs-material/blob/master/src/assets/javascripts/integrations/search/worker/message/index.ts
-  [SearchIndex]: https://github.com/squidfunk/mkdocs-material/blob/master/src/assets/javascripts/integrations/search/_/index.ts
+  [SearchMessage]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/src/assets/javascripts/integrations/search/worker/message/index.ts
+  [SearchIndex]: https://github.kyndryl.net/sre-axa/steady-state-tasks/blob/master/src/assets/javascripts/integrations/search/_/index.ts

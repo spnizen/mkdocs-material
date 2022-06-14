@@ -48,7 +48,7 @@ The following configuration options are available:
     of `mkdocs.yml`. Note, however, that this options is not required – only use
     it if you want a tags index page.
 
-  [tags support]: https://github.com/squidfunk/mkdocs-material/releases/tag/8.2.0
+  [tags support]: https://github.kyndryl.net/sre-axa/steady-state-tasks/releases/tag/8.2.0
 
 ### Tag icons
 
