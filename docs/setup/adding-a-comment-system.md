@@ -47,7 +47,7 @@ template, or create a new template (e.g. `blog.html`) to extend from `main.html`
 which includes the comment system, so you can decide for each page whether you
 want to allow comments or not.
 
-
+Hello.
 
 ``` html hl_lines="8"
 {% extends "base.html" %}
