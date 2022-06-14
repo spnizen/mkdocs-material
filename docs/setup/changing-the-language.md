@@ -202,9 +202,9 @@ adjust the ones you want to override:
 === ":octicons-file-code-16: overrides/partials/languages/custom.html"
 
     ``` html
-    <!-- Import translations for language and fallback -->
+    <!-- Import translations for language and fallback 
     {% import "partials/languages/de.html" as language %}
-    {% import "partials/languages/en.html" as fallback %} <!-- (1)! -->
+    {% import "partials/languages/en.html" as fallback %} (1)! -->
 
     <!-- Define custom translations -->
     {% macro override(key) %}{{ {
