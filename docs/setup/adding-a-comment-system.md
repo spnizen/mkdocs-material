@@ -47,9 +47,7 @@ template, or create a new template (e.g. `blog.html`) to extend from `main.html`
 which includes the comment system, so you can decide for each page whether you
 want to allow comments or not.
 
-In order to integrate [Giscus], follow the guide on [theme extension] and
-[override the `content` block][overriding blocks], extending the default by
-calling the `super()` function at the beginning of the block:
+
 
 ``` html hl_lines="8"
 {% extends "base.html" %}
