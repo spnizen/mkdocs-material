@@ -19,12 +19,12 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Built by SPN
-site_url: https://pages.github.kyndryl.net/sre-axa/steady-state-tasks/
+site_name: Built by Sridhar P Naidu
+site_url: https://pages.github.kyndryl.net/sre-axa/steady-state-tasks
 
 site_author: SRE Squad
 site_description: >-
-  AXA SRE Sqaud keeps the infrastructure up and running with a 99.9% commitment to the agreed SLA(s)
+  AXA SRE Sqaud keeps the infrastructure up and running with a commitment to the agreed SLA(s)
 
 # Repository
 repo_name: Raise an issue
