@@ -163,11 +163,11 @@ the `overrides` directory:
 Then, e.g. to override the site title, add the following lines to `main.html`:
 
 ``` html
-{% extends "base.html" %}
+{{% extends "base.html" %}}
 
-{% block htmltitle %}
+{{% block htmltitle %}}
   <title>Lorem ipsum dolor sit amet</title>
-{% endblock %}
+{{% endblock %}}
 ```
 
 The following template blocks are provided by the theme:
